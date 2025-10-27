@@ -1,0 +1,122 @@
+---
+title: "Miguel Angel Castro Ampudia"
+author: 
+  - name: "2322711"
+    affiliations:
+      - name: "University Canada West"
+date: 2025-10-26
+format:
+  html:
+    theme: cosmo
+    toc: false
+    smooth-scroll: true
+    code-fold: false
+execute:
+  echo: false
+---
+
+<div style="text-align:center; margin-bottom:1rem;">
+  <img src="images/headshot.jpg"
+       alt="Headshot of Miguel Castro"
+       width="160"
+       style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+  
+  <p><strong>MBA Candidate, University Canada West</strong> · Vancouver, BC</p>
+  <p class="lead">Business + AI | Management | Strategy · Analytics · Product</p>
+  <p class="contact">
+    <a href="mailto:miguel.castro.ampudia@gmail.com" title="Email"><i class="bi bi-envelope-fill"></i></a>
+    <i class="fas fa-envelope"></i>
+  </a>
+    <a href="https://www.linkedin.com/in/miguel-castro-ampudia-2a612418a/" target="_blank"><i class="bi bi-linkedin"></i></a> 
+    <a href="https://github.com" target="_blank"><i class="bi bi-github"></i></a></a>
+  </p>
+
+
+::: {.section-card}
+## About <i class="bi-person-circle"style="color:#0056b3; font-size:1.1em;"></i>
+Mechanical Engineer and MBA candidate at the University Canada West, with a natural and adapted personality style model, focusing on market competitiveness, sales operations improvement, operational efficiency, and aftermarket management. More than 10 years of experience in the heavy equipment industry for the construction and mining sectors. Enthusiastic supporters of using and applying AI tools enable the transformation of inputs into measurable outputs, enhancing business, driving accurate forecasts and inventory planning, facilitating faster decision-making, and enabling automation and continuous learning.
+:::
+
+::: {.section-card}
+## Education <i class="bi bi-mortarboard-fill"style="color:#0056b3; font-size:1.1em;"></i>
+- **MBA, University Canada West (UCW)** — *Expected 2026*  
+  Relevant coursework: Quantitive Reasoning & Analysis,Business Analytics, Application of AI in Business, Machine Learning Tools and Techniques, Financial Management, Project Management, Leadership.
+  
+  Certified Digital Marketing Associate
+  Digital Marketing Institute
+  Issued Mar 2025
+
+  Financial Accounting 099
+  University Canada West
+  Issued Dec 2024
+
+- **B.Eng. (Mechanical), Universidad Tecnologica de Mexico** — Year 2010  
+:::
+
+::: {.section-card}
+## Professional Highlights <i class="bi bi-briefcase-fill"style="color:#0056b3; font-size:1.1em;"></i>
+- <strong> Specialist Sales Advisor, John Deere Co</strong> — *Jul 2020–Jun 2023*
+- Reported ~**30% sales increase** tied to market analysis and pipeline execution.
+- Territory development ~**18% marketshare increase** chambers/government liaison, competitive analysis, and field visit planning.
+- Quotation cadence metric and new-client prospecting program ~**15% new-client potential increase** due to CRM automating business process through sales, marketing and service.
+
+- <strong>Spare Parts Product Manager (Concrete Division), Construmac SAPI de CV</strong> — *Feb 2017–Jun 2020* 
+- Forecast planner for pumps/mixers/shotcrete lines ~**4x on main items** improved inventory turnover.
+- Planning for concrete pump steel pipes countrywide; ~**10% reduced lead times** and improved availability/profitability.
+- Ongoing dead-stock ~**10% reduction** and national training seminars for sales teams. 
+
+- <strong>National Service Manager Assistant (Concrete Division), Construmac SAPI de CV</strong> — *Jan 2015–Jan 2017*
+- Aftermarket Technical Support ~**10x on-site services** technician assistance.
+-  Warranties ~**18% reduced claims** supervision on commissioning for major repairs and new equipment.
+- Team Engagement and training ~**80% improved certified technician** Career plan development between factory and dealer.
+
+- <strong>Central Workshop Supervisor (Roads, Concrete, Crushers & Screeners, and Foundation), Construmac SAPI de CV</strong> — *May 2013–Dec 2014*
+- Truck-mounted pumps ~**50% mounting time reduced** due to Operational readiness, Activities Plan, and Defined Processes.
+- Annual training plan ~**10x factory training sessions** engagement and close-to-close relation.
+- Overhaul or major rapairs ~**5x annual events** marketing proposals.     
+
+::: {.section-card}
+## Projects <i class="bi bi-diagram-3-fill"style="color:#0056b3; font-size:1.1em;"></i>
+
+- **Concrete Pipes Market Expansion (China 2019)** — 
+Developed commercial Chinese exporter partner for Mexican market improvement in concrete pipes for truck-mounted and stationary pumps (laydown and high-rise), increasing 25% of market share and 15% in sales.
+
+- **Financial Analysis Lubricants Distributors: Mobil Exxon vs Shell (Mexico 2017)** — Ratio and trend analysis, along with an executive summary and industry context, provide the most accurate decision-making framework for commercial partnerships in lubricant distribution.
+
+- **Truck Mounted Pumps - Turret Retrofit (Mexico 2016)** — 
+Responsible for planned, implement and execute a national campaign with factory support for localization, disruption operation negotiation, and repairments to all new Putzmeister equipment sold in 2014 and 2015. Built schedule, risk plan; applied crashing to reduce timeline by 10 days.
+<small class="muted">Link to repos, reports, or slides if public.</small>
+:::
+
+::: {.section-card}
+## <i class="bi bi-gear-fill"style="color:#0056b3; font-size:1.1em;"></i> Skills & Strengths <i class="bi bi-star-fill"style="color:#0056b3; font-size:1.1em;"></i>
+<span class="badge bg-primary">Strategic Decision Making</span>
+<span class="badge bg-primary">Problem Solving</span>
+<span class="badge bg-primary">Integrity</span>
+<span class="badge bg-primary">Personal Responsibility</span>
+<span class="badge bg-primary">Diplomacy</span>
+<span class="badge bg-primary">Collaboration</span>
+<span class="badge bg-primary">Negotiation</span>
+<span class="badge bg-primary">Leadership</span>
+<span class="badge bg-primary">Mentoring</span>
+<span class="badge bg-primary">Conceptual Thinking</span>
+<span class="badge bg-primary">Efficiency</span>
+<span class="badge bg-primary">Steadiness</span>
+<span class="badge bg-primary">Compliance</span>
+<span class="badge bg-primary">Intentional (helping with purpose)</span>
+<span class="badge bg-primary">Resourceful</span>
+<span class="badge bg-primary">Balances logic</span>
+<span class="badge bg-primary">Troubleshooter</span>
+<span class="badge bg-primary">Analytical</span>
+<span class="badge bg-primary">Ennovation</span>
+<span class="badge bg-primary">Efficency</span>
+:::
+
+::: {.section-card}
+## Contact <i class="bi bi-envelope-fill"style="color:#0056b3; font-size:1.1em;"></i>
+- 📧 Email: <a href="mailto:miguel@example.com">miguel.castro.ampudia@gmail.com</a>  
+- 🔗 LinkedIn: <a href="https://www.linkedin.com">miguel-castro-ampudia-2a612418a/</a>  
+- 🧑‍💻 GitHub/Portfolio: <a href="https://github.com">Your profile</a>  
+
+<small class="muted">Optional: add a short privacy note or booking link.</small>
+:::

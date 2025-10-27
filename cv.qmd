@@ -1,0 +1,48 @@
+---
+title: "Miguel Angel Castro Ampudia"
+page-layout: full
+format:
+  html:
+    toc: false
+---
+
+## Curriculum Vitae / Résumé
+
+<p style="font-size:0.95rem; line-height:1.4; margin-bottom:1rem;">
+Below is a browser preview of my full CV. You can also download it as a PDF using the link below.
+</p>
+
+<p style="margin-bottom:1.5rem;">
+  <a href="MiguelCastroCV.pdf" target="_blank"
+     style="
+       display:inline-block;
+       background:#0056b3;
+       color:#fff;
+       padding:0.6rem 1rem;
+       border-radius:6px;
+       text-decoration:none;
+       font-weight:600;
+     ">
+    <i class="bi bi-file-earmark-pdf-fill" style="margin-right:6px;"></i>
+    Download CV (PDF)
+  </a>
+</p>
+
+<!-- Inline preview of the PDF -->
+<div style="
+  border:1px solid #ccc;
+  border-radius:8px;
+  overflow:hidden;
+  box-shadow:0 4px 12px rgba(0,0,0,0.08);
+  margin-bottom:2rem;
+">
+  <embed src="MiguelCastroCV.pdf"
+         type="application/pdf"
+         width="100%"
+         height="800px" />
+</div>
+
+### Notes
+- MBA Candidate (2024–2026), University Canada West.
+- 10+ years in sales operations, aftermarket support, inventory planning, and technical service in heavy equipment.
+- Experience leading quoting pipelines, national spare parts forecasting, technical training, and commissioning.
