@@ -147,6 +147,12 @@ These components reflect my authentic experience and original writing.
 
 These elements demonstrate complete authorship, factual accuracy, and alignment with University Canada West standards for integrity and responsible AI use.
 
+# References
+- University Canada West. (2025). *MBA Portfolio Assignment 1 Instructions.* [https://www.ucanwest.ca](https://www.ucanwest.ca)  
+- Quarto Documentation. (2025). *Getting Started with Quarto Websites.* [https://quarto.org/docs/websites](https://quarto.org/docs/websites)  
+- OpenAI. (2025). *Responsible Use of Generative AI in Education.* [https://openai.com/policies](https://openai.com/policies)  
+- OpenAI. (2025, October 26). *ChatGPT conversation with Miguel Angel Castro Ampudia – MBA Portfolio Appendix support.* ChatGPT. [https://chatgpt.com/share/68feff5a-bcdc-8010-a791-17d6b1571c45](https://chatgpt.com/share/68feff5a-bcdc-8010-a791-17d6b1571c45)
+
 <!-- ✅ Back to Top Button -->
 <style>
 #topBtn {
