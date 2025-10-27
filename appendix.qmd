@@ -7,15 +7,6 @@ format:
     toc-depth: 2
 ---
 
----
-title: "Appendix — LLM Use & Reflection"
-page-layout: full
-format:
-  html:
-    toc: true
-    toc-depth: 2
----
-
 <!-- 🔵 Download Appendix PDF Button -->
 <p style="text-align: right; margin-top: 0; margin-bottom: 1rem;">
   <a href="Appendix_MiguelCastro.pdf" 
