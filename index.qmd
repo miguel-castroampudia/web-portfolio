@@ -27,8 +27,8 @@ execute:
     <a href="mailto:miguel.castro.ampudia@gmail.com" title="Email"><i class="bi bi-envelope-fill"></i></a>
     <i class="fas fa-envelope"></i>
   </a>
-    <a href="https://www.linkedin.com/in/miguel-castro-ampudia-2a612418a/" target="_blank"><i class="bi bi-linkedin"></i></a> 
-    <a href="https://github.com" target="_blank"><i class="bi bi-github"></i></a></a>
+    <a href="https://www.linkedin.com/in/miguel-castro-ampudia/" target="_blank"><i class="bi bi-linkedin"></i></a> 
+    <a href="https://miguel-castroampudia.github.io/web-portfolio/" target="_blank"><i class="bi bi-github"></i></a></a>
   </p>
 
 
@@ -115,8 +115,12 @@ Responsible for planned, implement and execute a national campaign with factory 
 ::: {.section-card}
 ## Contact <i class="bi bi-envelope-fill"style="color:#0056b3; font-size:1.1em;"></i>
 - 📧 Email: <a href="mailto:miguel@example.com">miguel.castro.ampudia@gmail.com</a>  
-- 🔗 LinkedIn: <a href="https://www.linkedin.com">miguel-castro-ampudia-2a612418a/</a>  
-- 🧑‍💻 GitHub/Portfolio: <a href="https://github.com">Your profile</a>  
+- 🔗 LinkedIn: <a href="https://www.linkedin.com">miguel-castro-ampudia/</a>  
+- 🧑‍💻 GitHub/Portfolio: <a href="https://miguel-castroampudia.github.io/web-portfolio/">miguel-castroampudia</a>  
 
-<small class="muted">Optional: add a short privacy note or booking link.</small>
+<small class="muted">
+I respect your privacy — contact information is used only for professional networking.  
+Optional: <a href="https://calendly.com/yourlink">Book a meeting</a>
+</small>
 :::
+

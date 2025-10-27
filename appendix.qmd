@@ -8,7 +8,7 @@ format:
 ---
 
 # A. Purpose of this Appendix
-This appendix provides full transparency on how Large Language Model (LLM) tools were used to support the creation of my **MBA Portfolio Webpage** (Assignment 1).  
+This appendix provides full transparency on how Large Language Model (LLM) tools were used to support the creation of my **MBA Portfolio Webpage** (Assignment 1).
 
 It explains:
 
@@ -19,8 +19,6 @@ It explains:
 
 The goal is to demonstrate **ethical and responsible AI use** that aligns with University Canada West’s academic-integrity expectations.
 
----
-
 # B. Prompts I Used
 Below are the main LLM prompts I employed during portfolio development.  
 Each prompt served as a brainstorming or drafting aid; all final text and data were verified, rewritten, and fact-checked by me.
@@ -29,62 +27,57 @@ Each prompt served as a brainstorming or drafting aid; all final text and data w
 **Prompt:**  
 “Create an outline and sample text for a one-page MBA student portfolio including: About, Education, Professional Experience, Projects, Skills, and Contact sections. Keep the tone concise, formal, and professional, suitable for a business school context.”
 
-**Purpose:** To obtain a structural starting point and style guide for the webpage.
-
----
+**Purpose:**  
+To obtain a structural starting point and style guide for the webpage.
 
 ### 2. About Section / Personal Bio
 **Prompt:**  
 “Write a professional ‘About Me’ paragraph for an MBA candidate with a mechanical-engineering background and 10 + years in the heavy-equipment industry. Include focus on leadership, sales operations, project management, and business analytics.”
 
-**Purpose:** To generate a first draft of the *About Me* section that I later personalized with verified career details.
-
----
+**Purpose:**  
+To generate a first draft of the *About Me* section that I later personalized with verified career details.
 
 ### 3. Skills Section (TriMetrix Indigo Integration)
 **Prompt:**  
 “Using the behavioral insights from my TriMetrix Indigo report, list 15–20 key skills and personal strengths in concise, professional wording. Highlight traits such as decision-making, integrity, diplomacy, problem solving, negotiation, and leadership.”
 
-**Purpose:** To translate assessment data into résumé-appropriate language.
-
----
+**Purpose:**  
+To translate assessment data into résumé-appropriate language.
 
 ### 4. Experience and Achievements
 **Prompt:**  
 “Convert my work experience into quantitative bullet points emphasizing measurable results such as sales growth, inventory turnover, efficiency improvements, and training initiatives in the construction and mining sectors.”
 
-**Purpose:** To obtain impact-based phrasing that I verified and adjusted to real figures from my professional history.
-
----
+**Purpose:**  
+To obtain impact-based phrasing that I verified and adjusted to real figures from my professional history.
 
 ### 5. Quarto / Technical Setup
 **Prompt:**  
 “Guide me step-by-step to build a Quarto-based MBA portfolio webpage with a navbar linking to Home, CV, and Appendix. Include Bootstrap Icons, responsive layout, a centered headshot, and consistent theme color #0056b3.”
 
-**Purpose:** To configure the Quarto environment, metadata (`_quarto.yml`), and HTML structure correctly.
-
----
+**Purpose:**  
+To configure the Quarto environment, metadata (`_quarto.yml`), and HTML structure correctly.
 
 ### 6. CV Integration
 **Prompt:**  
 “Help me create a cv.qmd page that displays my downloadable PDF résumé and an inline preview within the Quarto website. Style it professionally with a ‘Download CV’ button and embedded PDF.”
 
-**Purpose:** To make my résumé accessible and stylistically aligned with the site.
-
----
+**Purpose:**  
+To make my résumé accessible and stylistically aligned with the site.
 
 ### 7. Appendix Composition
 **Prompt:**  
 “Write an Appendix page for my MBA portfolio documenting how I used an LLM responsibly — including prompts, raw outputs, editing process, and integrity statement — following UCW academic policy.”
 
-**Purpose:** To ensure transparency and compliance with the responsible-AI component of the assignment.
-
----
+**Purpose:**  
+To ensure transparency and compliance with the responsible-AI component of the assignment.
 
 # C. Raw LLM Output (Unedited Draft Text)
-Below are short samples of unedited text produced by the model before I revised it. These show tone and structure but not my final content.
+Below are short samples of unedited text produced by the model before I revised it.  
+These show tone and structure but not my final content.
 
 ## C1. Original “About Me” Draft
+
 MBA candidate with mechanical-engineering background and over ten years of experience in heavy-equipment sales and service. Passionate about leadership, innovation, and using analytics to drive smarter decisions in industrial operations.
 
 ## C2. Original “Skills & Strengths” Draft
