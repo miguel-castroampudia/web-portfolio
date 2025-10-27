@@ -176,6 +176,43 @@ Below is a browser preview of my full CV. You can also download it as a PDF usin
 <li>10+ years in sales operations, aftermarket support, inventory planning, and technical service in heavy equipment.</li>
 <li>Experience leading quoting pipelines, national spare parts forecasting, technical training, and commissioning.</li>
 </ul>
+<!-- ✅ Back to Top Button -->
+<style>
+#topBtn {
+  position: fixed;
+  bottom: 25px;
+  right: 25px;
+  z-index: 99;
+  background-color: #0056b3;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 16px;
+  font-size: 16px;
+  cursor: pointer;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+}
+#topBtn:hover {
+  background-color: #004494;
+}
+</style>
+<button onclick="topFunction()" id="topBtn" title="Go to top">
+↑ Top
+</button>
+<script>
+  window.onscroll = function() {scrollFunction()};
+  function scrollFunction() {
+    const btn = document.getElementById("topBtn");
+    if (document.body.scrollTop > 200 || document.documentElement.scrollTop > 200) {
+      btn.style.display = "block";
+    } else {
+      btn.style.display = "none";
+    }
+  }
+  function topFunction() {
+    window.scrollTo({top: 0, behavior: 'smooth'});
+  }
+</script>
 
 
 </section>
