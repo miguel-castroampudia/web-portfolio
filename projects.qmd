@@ -1,0 +1,258 @@
+---
+title: "Projects & Case Studies"
+page-layout: full
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+## Overview
+
+This page presents selected **professional** projects and **MBA** case studies that combine
+engineering, operations, finance, and digital transformation.
+
+Each case study highlights the **context**, **my role**, the **tools and
+frameworks** used, and the **key learnings**.
+
+---
+
+## Professional Projects
+
+::: {.section-card}
+
+<details open>
+<summary><strong>Concrete Pipes Market Expansion – Truck-Mounted & Stationary Pumps (China–Mexico, 2019)</strong></summary>
+
+<span id="pipes"></span>
+
+**Context:**  
+After massive steel imports from China and a booming market 
+driven by competitors, Mexican concrete pumping customers needed 
+more competitive prices on pipe systems for both truck-mounted and 
+stationary pumps (lay-down and high-rise applications), creating an 
+opportunity to find new partners to maintain market share.
+
+**My Role:**  
+Commercial lead and project manager for identifying, analazing and 
+developing a new international supplier.
+
+**What I did:**
+
+- Research, identified and evaluated Chinese steel pipes manufacturers 
+for concrete pumps.  
+- Coordinated technical validation with service teams and key customers.  
+- Structured pricing, margin, and inventory proposals for the Mexican market.  
+- Prepared commercial materials, technical training and supported sales 
+teams during launch.
+
+**Results / Impact:**
+
+- Increase the company’s **market share by approximately 25%** in the
+concrete pipe segment.  
+- Contributed to an estimated **15% increase in sales** for this product
+line.  
+- Strengthened the company’s position in both **truck-mounted** and
+**stationary pump** projects.
+
+</details>
+
+:::
+
+
+::: {.section-card}
+
+<details>
+<summary><strong>Lubricants Distributor Financial Analysis – Mobil Exxon vs Shell (Mexico, 2017)</strong></summary>
+
+<span id="lubricants"></span>
+
+**Context:**  
+Aftermarket management needed to choose the best long-term partner between two
+lubricant distributors (Mobil Exxon vs Shell) for parts and service in construction and
+mining equipment customers.
+
+**My Role:**  
+Consultant analyst commercial and financial evaluation.
+
+**What I did:**
+
+- Performed **ratio and trend analysis** (profitability, liquidity,
+leverage, efficiency).  
+- Reviewed historical sales volumes, margins, and payment behaviour.   
+- Presented an **executive summary** with risks, opportunities, and
+recommendations.
+
+**Results / Impact:**
+
+- Provided a structured, data-driven resport comparison that clarified the
+financial and operational differences between the two alternatives.  
+- Decision-making support by selecting the distributor with better 
+credit behaviour, stronger growth potential, and profitability.
+
+</details>
+
+:::
+
+
+::: {.section-card}
+
+<details>
+<summary><strong>National Retrofit Campaign – Truck-Mounted Concrete Pumps (Mexico, 2016)</strong></summary>
+
+<span id="retrofit"></span>
+
+**Context:**  
+Putzmeister brand in its main product the truck-mounted concrete pumps (sold in 2014–2015) 
+required a **turret retrofit** to prevent failures and ensure long-term reliability.
+
+**My Role:**  
+Supervisor for the national retrofit campaign.
+
+**What I did:**
+
+- Worked with the PM factory to define technical scope, and procedures.  
+- Built a national **schedule** and **risk plan** for all affected units and clients.  
+- Negotiated downtime windows with customers to minimize disruption.  
+- Coordinated service teams, spare parts, and documentation.
+
+**Results / Impact:**
+
+- Completed the campaign across the national fleet using **project 
+crashing techniques**, resulting in a reduction of the overall timeline by 
+about **10 days**  
+- Improved customer trust and confidence  
+- Strengthened collaboration between service, parts, and sales teams.
+
+</details>
+
+:::
+
+---
+
+## MBA Academic Projects
+
+::: {.section-card}
+
+<details>
+<summary><strong>Digital Transformation Strategy – Lumen5 (CMPT 641)</strong></summary>
+
+**Focus:**  
+Analysis and evaluation on how Lumen5 can move from a creator-oriented freemium 
+tool to an enterprise-grade video platform.
+
+**My Role:**  
+Co-author of recommendations and roadmap, lead for **Ecosystem Growth**
+recommendation.
+
+**Key Points:**
+
+- Used **Sociotechnical Systems (STS)** and **TOE** frameworks to analyze
+misalignments between the product, organization, and market.  
+- The recomendation of a re-positioning strategy which focuses on 
+**governance, ROI, security, and scalability** for marketing teams (enterprise).  
+- Designed a **24-month roadmap** including partnerships, integrations, 
+and data-driven value.  
+
+**Impact / Learning:**
+
+- Developed a stronger understanding of how to connect **technical
+capabilities**, **business model**, and **organizational change**.
+
+</details>
+
+:::
+
+
+::: {.section-card}
+
+<details>
+<summary><strong>400 kW Rooftop Solar Power Plant – Project Management Plan</strong></summary>
+
+**Focus:**  
+Created a full project management plan for a 400 kW rooftop solar power
+plant.
+
+**My Role:**  
+Project planning and scheduling.
+
+**Key Elements:**
+
+- Built a **Work Breakdown Structure (WBS)** and **Risk Breakdown Structure
+(RBS)**.  
+- Developed a detailed **schedule** in ProjectLibre with task dependencies,
+critical path, ES/EF/LS/LF, and slack.  
+- Assigned resources (labor, equipment, materials) and estimated total
+duration and budget.  
+- Performed basic **project crashing** analysis to reduce the duration by
+5 business days.
+
+**Impact / Learning:**
+
+- Practiced applying project management tools to a real-world renewable
+energy context.  
+- Strengthened skills in risk management, scheduling, and cost/time trade-offs.
+
+</details>
+
+:::
+
+---
+
+## How These Projects Connect
+
+::: {.section-card}
+
+Across both professional and academic projects, my work follows the same pathway:
+
+- **Integration of technical and business thinking**  
+- **Data-driven decision-making** (KPIs, experiments)  
+- **Project and risk management** in complex operations   
+
+These experiences reflect my MBA approach: applying  
+**AI, analytics, and structured project management** to create practical,
+measurable results in real organizations.
+
+:::
+
+---
+
+<!-- ✅ Back to Top Button -->
+<style>
+#topBtn {
+  position: fixed;
+  bottom: 25px;
+  right: 25px;
+  z-index: 99;
+  background-color: #0056b3;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 16px;
+  font-size: 16px;
+  cursor: pointer;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+  display: none;
+}
+#topBtn:hover {
+  background-color: #004494;
+}
+</style>
+
+<button onclick="topFunction()" id="topBtn" title="Go to top">↑ Top</button>
+
+<script>
+  window.onscroll = function() {scrollFunction()};
+  function scrollFunction() {
+    const btn = document.getElementById("topBtn");
+    if (document.body.scrollTop > 200 || document.documentElement.scrollTop > 200) {
+      btn.style.display = "block";
+    } else {
+      btn.style.display = "none";
+    }
+  }
+  function topFunction() {
+    window.scrollTo({top: 0, behavior: 'smooth'});
+  }
+</script>
+

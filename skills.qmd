@@ -1,0 +1,263 @@
+---
+title: "Skills & Certifications"
+page-layout: full
+toc: true
+toc-depth: 2
+---
+
+## Overview
+::: {.section-card}
+
+This section enlists my core strengths, technical abilities, professional certifications, and digital skills developed through 10+ years in heavy equipment operations and my MBA training in AI-enabled business strategy.
+
+:::
+
+---
+
+## Core Strengths
+::: {.section-card}
+
+<details open>
+<summary><strong>Core Strengths</strong></summary>
+
+These strengths describe how I work, lead, and make decisions.
+
+<span class="badge bg-primary">Strategic Thinking</span>
+<span class="badge bg-primary">Analytical Reasoning</span>
+<span class="badge bg-primary">Problem Solving</span>
+<span class="badge bg-primary">Leadership</span>
+<span class="badge bg-primary">Execution-Oriented</span>
+<span class="badge bg-primary">Collaboration</span>
+<span class="badge bg-primary">Commercial Awareness</span>
+<span class="badge bg-primary">Continuous Improvement</span>
+
+</details>
+
+:::
+
+---
+
+## Business & Management Skills
+::: {.section-card}
+
+<details>
+<summary><strong>Business & Management Skills</strong></summary>
+
+**Commercial Strategy & Market Expansion**  
+- Partner development, pricing, value-based sales  
+- Competitive analysis and KPI interpretation  
+
+**Aftermarket & Product Management**  
+- Spare parts lifecycle management  
+- Inventory turnover improvement  
+- Technical sales & service integration  
+
+**Financial & Ratio Analysis**  
+- Profitability, liquidity, leverage, efficiency  
+- Trend analysis + executive summaries  
+
+**Stakeholder & Team Management**  
+- Cross-functional negotiations  
+- Coordination across sales, service, technicians, and factory teams  
+
+</details>
+
+:::
+
+---
+
+## Project Management Skills
+::: {.section-card}
+
+<details>
+<summary><strong>Project Management Skills</strong></summary>
+
+**Planning & Scheduling**  
+- WBS, dependencies, critical path, slack  
+- ES/EF/LS/LF calculation + timeline compression  
+
+**Risk Management**  
+- RBS, qualitative scoring  
+- Mitigation + contingency planning  
+
+**Resource & Cost Control**  
+- Labor/material/equipment allocation  
+- Time–cost tradeoff (crashing)  
+
+**Tools Used**  
+<span class="badge bg-secondary">ProjectLibre</span>
+<span class="badge bg-secondary">Excel (Advanced)</span>
+<span class="badge bg-secondary">Gantt Charts</span>
+<span class="badge bg-secondary">Risk Matrices</span>
+
+</details>
+
+:::
+
+---
+
+## AI, Digital & Analytical Skills
+::: {.section-card}
+
+<details>
+<summary><strong>AI, Digital & Analytical Skills</strong></summary>
+
+**AI for Business Decision Making**  
+- Evaluating LLM accuracy and reasoning  
+- Ensuring ethical alignment, bias reduction  
+- Applying STS, Digital Ethics Pyramid, TAM, TOE  
+
+**Data Interpretation & Analytics**  
+- Dashboard interpretation  
+- Forecasting using structured analysis  
+- Opportunity identification in operations and logistics  
+
+**Digital Tools**  
+<span class="badge bg-secondary">ChatGPT</span>
+<span class="badge bg-secondary">Claude</span>
+<span class="badge bg-secondary">Gemini</span>
+<span class="badge bg-secondary">Llama</span>
+<span class="badge bg-secondary">Quarto</span>
+<span class="badge bg-secondary">VS Code</span>
+<span class="badge bg-secondary">GitHub Pages</span>
+
+**My AI Work Style**  
+I use AI to brainstorm, validate assumptions, and improve clarity—while ensuring all decisions remain grounded in technical and real-world experience.
+
+</details>
+
+:::
+
+---
+
+## Technical / Engineering Skills
+::: {.section-card}
+
+<details>
+<summary><strong>Technical / Engineering Skills</strong></summary>
+
+**Heavy Equipment Operations**  
+- Truck-mounted & stationary concrete pumps  
+- Diagnostics and field technical support  
+
+**Service & Warranty Processes**  
+- Retrofit projects & failure analysis  
+- Standardization and technician development  
+
+**Technical Training Delivery**  
+- Leading national courses  
+- Safety, maintenance, and repair procedures  
+
+</details>
+
+:::
+
+---
+
+## Certifications <i class="bi bi-award-fill" style="color:#0056b3;"></i>
+::: {.section-card}
+
+<details>
+<summary><strong>Certifications</strong></summary>
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+- **Certified Digital Marketing Associate** — DMI (2025)  
+- **Financial Accounting 099** — UCW (2024)  
+
+:::
+
+::: {.column width="50%"}
+
+- **Concrete Pumps Operations & Maintenance** — Putzmeister (2012)  
+- **Concrete Pumps Parts, Operations & Maintenance** — Putzmeister (2018)  
+
+:::
+
+:::
+
+</details>
+
+:::
+
+---
+
+## Languages
+::: {.section-card}
+
+<details>
+<summary><strong>Languages</strong></summary>
+
+- **Spanish** — Native  
+- **English** — Professional Working Proficiency  
+
+</details>
+
+:::
+
+---
+
+<!-- Back to Top Button -->
+<style>
+#topBtn {
+  position: fixed;
+  bottom: 25px;
+  right: 25px;
+  z-index: 9999;
+  background-color: #0056b3;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 16px;
+  font-size: 16px;
+  cursor: pointer;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.25s ease;
+}
+#topBtn.show {
+  opacity: 1;
+  pointer-events: auto;
+}
+#topBtn:hover {
+  background-color: #004494;
+}
+</style>
+
+<button id="topBtn" title="Go to top">↑ Top</button>
+
+<script>
+(function () {
+  const btn = document.getElementById("topBtn");
+
+  function getScrollTop() {
+    return (document.scrollingElement && document.scrollingElement.scrollTop) ||
+           document.documentElement.scrollTop ||
+           document.body.scrollTop || 0;
+  }
+
+  function toggleBtn() {
+    if (getScrollTop() > 200) {
+      btn.classList.add("show");
+    } else {
+      btn.classList.remove("show");
+    }
+  }
+
+  window.addEventListener("scroll", toggleBtn, { passive: true });
+  document.addEventListener("scroll", toggleBtn, { passive: true });
+
+  btn.addEventListener("click", function () {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+    if (document.scrollingElement) {
+      document.scrollingElement.scrollTo({ top: 0, behavior: "smooth" });
+    }
+  });
+
+  toggleBtn();
+})();
+</script>
+

@@ -1,135 +1,142 @@
 ---
 title: "Miguel Angel Castro Ampudia"
-author: 
-  - name: "2322711"
-    affiliations:
-      - name: "University Canada West"
-date: 2025-10-26
+title-block-style: plain
+title-block-align: center
+page-layout: full
 format:
   html:
-    theme: cosmo
     toc: false
-    smooth-scroll: true
-    code-fold: false
-execute:
-  echo: false
 ---
 
 <div style="text-align:center; margin-bottom:1rem;">
+
   <img src="images/headshot.jpg"
        alt="Headshot of Miguel Castro"
-       width="160"
-       style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
-  
+       width="150"
+       style="border-radius:12px; box-shadow:0 3px 10px rgba(0,0,0,0.15);">
+
   <p><strong>MBA Candidate, University Canada West</strong> · Vancouver, BC</p>
   <p class="lead">Business + AI | Management | Strategy · Analytics · Product</p>
+
   <p class="contact">
-    <a href="mailto:miguel.castro.ampudia@gmail.com" title="Email"><i class="bi bi-envelope-fill"></i></a>
-    <i class="fas fa-envelope"></i>
-  </a>
-    <a href="https://www.linkedin.com/in/miguel-castro-ampudia/" target="_blank"><i class="bi bi-linkedin"></i></a> 
-    <a href="https://miguel-castroampudia.github.io/web-portfolio/" target="_blank"><i class="bi bi-github"></i></a></a>
+    <a href="mailto:miguel.castro.ampudia@gmail.com"><i class="bi bi-envelope-fill"></i></a>
+    <a href="https://www.linkedin.com/in/miguel-castro-ampudia/" target="_blank"><i class="bi bi-linkedin"></i></a>
+    <a href="https://miguel-castroampudia.github.io/web-portfolio/" target="_blank"><i class="bi bi-github"></i></a>
   </p>
 
+</div>
 
+---
+
+## [About](index.qmd#about) <i class="bi bi-person-circle" style="color:#0056b3;font-size:1.1em;"></i> {#about .text-center}
 ::: {.section-card}
-## About <i class="bi-person-circle"style="color:#0056b3; font-size:1.1em;"></i>
-Mechanical Engineer and MBA candidate at the University Canada West, with a natural and adapted personality style model, focusing on market competitiveness, sales operations improvement, operational efficiency, and aftermarket management. More than 10 years of experience in the heavy equipment industry for the construction and mining sectors. Enthusiastic supporters of using and applying AI tools enable the transformation of inputs into measurable outputs, enhancing business, driving accurate forecasts and inventory planning, facilitating faster decision-making, and enabling automation and continuous learning.
+
+Mechanical Engineer and MBA candidate specializing in operational efficiency, commercial strategy, and aftermarket management.  
+10+ years of experience in heavy equipment for construction and mining. Strong supporter of AI to improve forecasting, decision-making, and operational execution.
+
 :::
 
+---
+
+## [Education](cv.qmd) <i class="bi bi-mortarboard-fill" style="color:#0056b3;font-size:1.1em;"></i> {#education .text-center}
 ::: {.section-card}
-## Education <i class="bi bi-mortarboard-fill"style="color:#0056b3; font-size:1.1em;"></i>
-- **MBA, University Canada West (UCW)** — *Expected 2026*  
-  Relevant coursework: Quantitive Reasoning & Analysis,Business Analytics, Application of AI in Business, Machine Learning Tools and Techniques, Financial Management, Project Management, Leadership.
-  
-  Certified Digital Marketing Associate
-  Digital Marketing Institute
-  Issued Mar 2025
 
-  Financial Accounting 099
-  University Canada West
-  Issued Dec 2024
+- **MBA, University Canada West (UCW)** — *Expected 2026*    
+- **B.Eng. Mechanical Engineering** — UNITEC (*2010*)
 
-- **B.Eng. (Mechanical), Universidad Tecnologica de Mexico** — Year 2010  
 :::
 
+---
+
+## [Professional Highlights](cv.qmd) <i class="bi bi-briefcase-fill" style="color:#0056b3;font-size:1.1em;"></i> {#highlights .text-center}
 ::: {.section-card}
-## Professional Highlights <i class="bi bi-briefcase-fill"style="color:#0056b3; font-size:1.1em;"></i>
-- <strong> Specialist Sales Advisor, John Deere Co</strong> — *Jul 2020–Jun 2023*
-- Reported ~**30% sales increase** tied to market analysis and pipeline execution.
-- Territory development ~**18% marketshare increase** chambers/government liaison, competitive analysis, and field visit planning.
-- Quotation cadence metric and new-client prospecting program ~**15% new-client potential increase** due to CRM automating business process through sales, marketing and service.
 
-- <strong>Spare Parts Product Manager (Concrete Division), Construmac SAPI de CV</strong> — *Feb 2017–Jun 2020* 
-- Forecast planner for pumps/mixers/shotcrete lines ~**4x on main items** improved inventory turnover.
-- Planning for concrete pump steel pipes countrywide; ~**10% reduced lead times** and improved availability/profitability.
-- Ongoing dead-stock ~**10% reduction** and national training seminars for sales teams. 
+- **John Deere Co — Specialist Sales Advisor (2020–2023)**  
+  +30% sales · +18% market share · CRM prospecting improvement
 
-- <strong>National Service Manager Assistant (Concrete Division), Construmac SAPI de CV</strong> — *Jan 2015–Jan 2017*
-- Aftermarket Technical Support ~**10x on-site services** technician assistance.
--  Warranties ~**18% reduced claims** supervision on commissioning for major repairs and new equipment.
-- Team Engagement and training ~**80% improved certified technician** Career plan development between factory and dealer.
+- **Construmac — Spare Parts Product Manager (2017–2020)**  
+  4× inventory turnover · –10% lead times · national training delivery
 
-- <strong>Central Workshop Supervisor (Roads, Concrete, Crushers & Screeners, and Foundation), Construmac SAPI de CV</strong> — *May 2013–Dec 2014*
-- Truck-mounted pumps ~**50% mounting time reduced** due to Operational readiness, Activities Plan, and Defined Processes.
-- Annual training plan ~**10x factory training sessions** engagement and close-to-close relation.
-- Overhaul or major rapairs ~**5x annual events** marketing proposals.     
+- **Construmac — National Service Assistant (2015–2017)**  
+  10× service events · –18% warranty claims · 80% technician certification
 
-::: {.section-card}
-## Projects <i class="bi bi-diagram-3-fill"style="color:#0056b3; font-size:1.1em;"></i>
+- **Construmac — Workshop Supervisor (2013–2014)**  
+  –50% mounting time · 10× training · 5× overhaul events per year
 
-- **Concrete Pipes Market Expansion (China 2019)** — 
-Developed commercial Chinese exporter partner for Mexican market improvement in concrete pipes for truck-mounted and stationary pumps (laydown and high-rise), increasing 25% of market share and 15% in sales.
-
-- **Financial Analysis Lubricants Distributors: Mobil Exxon vs Shell (Mexico 2017)** — Ratio and trend analysis, along with an executive summary and industry context, provide the most accurate decision-making framework for commercial partnerships in lubricant distribution.
-
-- **Truck Mounted Pumps - Turret Retrofit (Mexico 2016)** — 
-Responsible for planned, implement and execute a national campaign with factory support for localization, disruption operation negotiation, and repairments to all new Putzmeister equipment sold in 2014 and 2015. Built schedule, risk plan; applied crashing to reduce timeline by 10 days.
-<small class="muted">Link to repos, reports, or slides if public.</small>
 :::
 
+---
+
+## [Projects](projects.qmd) <i class="bi bi-diagram-3-fill" style="color:#0056b3;font-size:1.1em;"></i> {#projects .text-center}
 ::: {.section-card}
-## <i class="bi bi-gear-fill"style="color:#0056b3; font-size:1.1em;"></i> Skills & Strengths <i class="bi bi-star-fill"style="color:#0056b3; font-size:1.1em;"></i>
-<span class="badge bg-primary">Strategic Decision Making</span>
+
+Below are the milestone projects in engineering and commercial sectors based on my professional journey.
+
+<br>
+
+::: {.projects-grid}
+
+::: {.project-card}
+![Concrete Pipes Market Expansion (2019)](images/Project1.jpg){.project-img fig-alt="Miguel next to a truck-mounted concrete pump in a workshop."}
+
+#### [Concrete Pipes Market Expansion (2019)](projects.html#pipes)
+
++25% share · +15% sales
+:::
+
+::: {.project-card}
+![Lubricants Distributor Financial Analysis (2017)](images/Project3.jpg){.project-img fig-alt="Yard with heavy equipment and pumps."}
+
+#### [Lubricants Distributor Financial Analysis (2017)](projects.html#lubricants)
+
+Mobil vs Shell strategy
+:::
+
+::: {.project-card}
+![National Retrofit Campaign – Turret Failure (2016)](images/Project2.jpg){.project-img fig-alt="Crane operating at an industrial plant site."}
+
+#### [National Retrofit Campaign – Turret Failure (2016)](projects.html#retrofit)
+
+Crashing –10 days
+:::
+
+:::
+
+:::
+
+---
+
+## [Skills & Strengths](skills.qmd) {#skills .text-center}
+::: {.section-card}
+
+<span class="badge bg-primary">Strategic Thinking</span>
 <span class="badge bg-primary">Problem Solving</span>
-<span class="badge bg-primary">Integrity</span>
-<span class="badge bg-primary">Personal Responsibility</span>
-<span class="badge bg-primary">Diplomacy</span>
-<span class="badge bg-primary">Collaboration</span>
-<span class="badge bg-primary">Negotiation</span>
 <span class="badge bg-primary">Leadership</span>
-<span class="badge bg-primary">Mentoring</span>
-<span class="badge bg-primary">Conceptual Thinking</span>
-<span class="badge bg-primary">Efficiency</span>
-<span class="badge bg-primary">Steadiness</span>
-<span class="badge bg-primary">Compliance</span>
-<span class="badge bg-primary">Intentional (helping with purpose)</span>
-<span class="badge bg-primary">Resourceful</span>
-<span class="badge bg-primary">Balances logic</span>
-<span class="badge bg-primary">Troubleshooter</span>
 <span class="badge bg-primary">Analytical</span>
-<span class="badge bg-primary">Ennovation</span>
-<span class="badge bg-primary">Efficency</span>
+<span class="badge bg-primary">Innovation</span>
+<span class="badge bg-primary">Collaboration</span>
+<span class="badge bg-primary">Resourceful</span>
+
 :::
 
+---
+
+## [Contact](contact.qmd) {#contact .text-center}
 ::: {.section-card}
-## Contact <i class="bi bi-envelope-fill"style="color:#0056b3; font-size:1.1em;"></i>
-- 📧 Email: <a href="mailto:miguel@example.com">miguel.castro.ampudia@gmail.com</a>  
-- 🔗 LinkedIn: <a href="https://www.linkedin.com">miguel-castro-ampudia/</a>  
-- 🧑‍💻 GitHub/Portfolio: <a href="https://miguel-castroampudia.github.io/web-portfolio/">miguel-castroampudia</a>  
 
-<small class="muted">
-I respect your privacy — contact information is used only for professional networking.  
-Optional: <a href="https://calendly.com/yourlink">Book a meeting</a>
-</small>
+📧 <a href="mailto:miguel.castro.ampudia@gmail.com">miguel.castro.ampudia@gmail.com</a>  
+🔗 <a href="https://www.linkedin.com/in/miguel-castro-ampudia/" target="_blank">linkedin.com/in/miguel-castro-ampudia</a>  
+🧑‍💻 <a href="https://miguel-castroampudia.github.io/web-portfolio/" target="_blank">Portfolio</a>
 
-<!-- ✅ Back to Top Button -->
+:::
+
+<!-- Back to Top Button -->
 <style>
 #topBtn {
   position: fixed;
   bottom: 25px;
   right: 25px;
-  z-index: 99;
+  z-index: 9999;
   background-color: #0056b3;
   color: white;
   border: none;
@@ -138,28 +145,49 @@ Optional: <a href="https://calendly.com/yourlink">Book a meeting</a>
   font-size: 16px;
   cursor: pointer;
   box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.25s ease;
+}
+#topBtn.show {
+  opacity: 1;
+  pointer-events: auto;
 }
 #topBtn:hover {
   background-color: #004494;
 }
 </style>
 
-<button onclick="topFunction()" id="topBtn" title="Go to top">↑ Top</button>
+<button id="topBtn" title="Go to top">↑ Top</button>
 
 <script>
-  window.onscroll = function() {scrollFunction()};
-  function scrollFunction() {
-    const btn = document.getElementById("topBtn");
-    if (document.body.scrollTop > 200 || document.documentElement.scrollTop > 200) {
-      btn.style.display = "block";
+(function () {
+  const btn = document.getElementById("topBtn");
+
+  function getScrollTop() {
+    return (document.scrollingElement && document.scrollingElement.scrollTop) ||
+           document.documentElement.scrollTop ||
+           document.body.scrollTop || 0;
+  }
+
+  function toggleBtn() {
+    if (getScrollTop() > 200) {
+      btn.classList.add("show");
     } else {
-      btn.style.display = "none";
+      btn.classList.remove("show");
     }
   }
-  function topFunction() {
-    window.scrollTo({top: 0, behavior: 'smooth'});
-  }
+
+  window.addEventListener("scroll", toggleBtn, { passive: true });
+  document.addEventListener("scroll", toggleBtn, { passive: true });
+
+  btn.addEventListener("click", function () {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+    if (document.scrollingElement) {
+      document.scrollingElement.scrollTo({ top: 0, behavior: "smooth" });
+    }
+  });
+
+  toggleBtn();
+})();
 </script>
-
-:::
-

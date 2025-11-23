@@ -1,0 +1,57 @@
+---
+title: "Reflection"
+page-layout: full
+---
+
+## Building My Multi-Page Portfolio
+::: {.section-card}
+
+The project of my electronic portfolio is basically a compilation of professional and personal evidence that demonstrates and enhances intellectual and professional development within the competency-based MBA program. Moreover, the multimedia format allows for the representation of progress and learning achievements, with particular weight in the relevant sections (Thomas et al., 2025). Nevertheless, my expectations for LLMs' performance and reliability are too high, given the presence of bias during the process, which impacts the output, and the weaker areas where the models struggle, such as ethics or health themes. Now, my perspective is different and serves to return to human thinking and to use the models as tools, not as a principal source that replaces humans. Additionally, the transition from a single-page to a multipage project poses the challenge of integrating various files, connecting them, and providing a design to improve visualization.
+
+Understanding how to give instructions or feed the model with the most accurate inputs to obtain the best outputs, while avoiding bias during the process, is crucial. However, the brainstorming and suggestions provided by the models help refine ideas, clarify concepts, and create better, more structured sections, while optimizing time and speed. Furthermore, maintaining my own voice gives each section of the project an original, self tone. It reflects my personality in each rewrite draft, where the essential facts are decided by me and not for the model, giving a special personalization to my experiences, such as work roles, project achievements, skills, and certifications.
+
+Using multiple models allows me to test which is more concise, structured, and accurate in its responses, and which has the best AI behavior, tone, and level of expertise for my project development. Moreover, understanding the importance of the prompt message, the user message, and their relationship helps me know how modern AI in LLMs works.
+
+Throughout all phases of the project (single- and multipage portfolio), the main reflection is on not relying on or delegating everything to the LLMs without a sense of responsibility, critical thinking, and human judgment. Likewise, the necessity of balancing and achieving joint optimization in which the system performance requires both people and technology, allows social and technical systems optimization. Additionally, it will enable me to present my professional identity through a web portfolio.
+
+:::
+
+---
+
+<!-- ✅ Back to Top Button -->
+<style>
+#topBtn {
+  position: fixed;
+  bottom: 25px;
+  right: 25px;
+  z-index: 99;
+  background-color: #0056b3;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 16px;
+  font-size: 16px;
+  cursor: pointer;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+}
+#topBtn:hover {
+  background-color: #004494;
+}
+</style>
+
+<button onclick="topFunction()" id="topBtn" title="Go to top">↑ Top</button>
+
+<script>
+  window.onscroll = function() {scrollFunction()};
+  function scrollFunction() {
+    const btn = document.getElementById("topBtn");
+    if (document.body.scrollTop > 200 || document.documentElement.scrollTop > 200) {
+      btn.style.display = "block";
+    } else {
+      btn.style.display = "none";
+    }
+  }
+  function topFunction() {
+    window.scrollTo({top: 0, behavior: 'smooth'});
+  }
+</script>

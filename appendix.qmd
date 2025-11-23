@@ -17,7 +17,7 @@ format:
 </p>
 
 # A. Purpose of this Appendix
-This appendix provides full transparency on how Large Language Model (LLM) tools were used to support the creation of my **MBA Portfolio Webpage** (Assignment 1).
+This appendix provides full transparency on how Large Language Model (LLM) tools were used to support the creation of my **MBA Portfolio Multi Webpage**
 
 It explains:
 
@@ -29,7 +29,7 @@ It explains:
 The goal is to demonstrate **ethical and responsible AI use** that aligns with University Canada West’s academic-integrity expectations.
 
 # B. Prompts I Used
-Below are the main LLM prompts I employed during portfolio development.  
+The main LLM prompts I employed during portfolio development are listed below.  
 Each prompt served as a brainstorming or drafting aid; all final text and data were verified, rewritten, and fact-checked by me.
 
 ### 1. Portfolio Outline and Draft
@@ -86,11 +86,9 @@ Below are short samples of unedited text produced by the model before I revised 
 These show tone and structure but not my final content.
 
 ## C1. Original “About Me” Draft
-
 MBA candidate with mechanical-engineering background and over ten years of experience in heavy-equipment sales and service. Passionate about leadership, innovation, and using analytics to drive smarter decisions in industrial operations.
 
 ## C2. Original “Skills & Strengths” Draft
-
 • Strategic Decision Making – Able to analyze complex challenges and select the most efficient course of action.  
 • Integrity and Responsibility – Dependable professional who delivers on commitments.  
 • Diplomacy and Team Collaboration – Builds trust and resolves conflict constructively.  
@@ -98,7 +96,6 @@ MBA candidate with mechanical-engineering background and over ten years of exper
 • Continuous Learning – Committed to self-development and process excellence.
 
 ## C3. Original “Section Layout Proposal”
-
 1. About  
 2. Education  
 3. Experience  
@@ -107,37 +104,58 @@ MBA candidate with mechanical-engineering background and over ten years of exper
 6. Contact  
 (Optional) CV tab and Appendix tab for transparency
 
+## C4. Original LLM-Generated Multi-Page Site Map (Draft)
+The way I present myself as an engineer and MBA candidate
+
+1. **Home / About**  
+   - Headshot, professional summary, highlights  
+2. **Curriculum Vitae (CV)**  
+   - Downloadable PDF + inline preview  
+3. **Projects / Case Studies**  
+   - Professional projects + MBA academic projects  
+4. **Skills & Certifications**  
+   - Strengths, business skills, engineering skills, AI/digital skills  
+5. **Contact**  
+   - Email, LinkedIn, location + CTA buttons  
+6. **Reflection**  
+   - 300–500 word learning reflection  
+7. **Appendix**  
+   - Prompts, raw outputs, edits, integrity statement  
+
+**Annotation:**  
+I kept this overall structure, but I renamed and reorganized sections, expanded the Projects and Skills pages with more detail, and built dedicated CV, Reflection, and Appendix pages to match my professional identity and the Assignment 3 requirements.
+
 # D. How I Edited the AI Output
-Once I figure out how to articulate the question to obtain the output from the LLM model that fits my idea for how I want to start the portfolio project, I type two or three times (brainstorming), different instructions until I feel satisfied about the result matching my real skills, attributes, background, and professional experience.
+Question articulation is vital to achieving outputs aligned with my intended portfolio. I refined the prompts several times (brainstorming) until I found alignment with my fundamental skills, background, and professional experience.   
 
-The main editting actions were:
+The main editing actions were:
 
-- **Personalization and Context Alignment:**
- Using the idea of how I can describe my personal and professional background, I rewrote and used new words, such as my personality style and my engineering background, to connect my principal statement on how I want to express and sound in my About me text.
+- **Personalization and Context Alignment:**  
+  I change the About section using my own tone, engineering identity, and adapting the draft to reflect my real background and personality from my John Deere and Construmac performance
 
- - **Quantitative Verification:**
- I completely rewrote this section, using relevant information and milestones from my professional career (≈ 30 % sales increase, ≈ 4× inventory turnover, ≈ 9.25 % annual growth, ≈ 10 % reduction in dead stock), but the structure of how to present it is the one the model suggests for a smooth visualization.
+- **Quantitative Verification:**  
+  I completely rewrote the Professional Highlights using verified milestones from my career (≈ 30% sales increase, ≈ 4× inventory turnover, ≈ 9.25% annual growth, ≈ 10% reduction in dead stock). I kept only the structural layout suggested by the model for smooth visualization.
 
- - **Tone and Professional Voice:**
- I changed the tone and generic voice to a professional context, aligned with the MBA Portfolio and recruitment context.
+- **Tone and Professional Voice:**  
+  I changed generic wording into a professional MBA and recruitment-appropriate voice.
 
- - **TriMetrix Indigo Translation:**
- For a better interpretation of my personal skills and strengths, I used my test to support my personality style, abilities, and competencies *Strategic Decision Making*, *Personal Responsibility*, *Diplomacy and Negotiation*, and *Problem Solving*  
- 
- - **Structural Refinement:** 
- I followed the AI's model and order. Still, it underwent many changes, including reformatted and renamed titles, the addition of new sections to showcase professional highlights and projects, and a separate CV for recruitment and an Appendix section for transparency.
- 
- - **Technical Formatting in Quarto:**
- One of the changes was Bootstrap Icons, custom color #0056b3, and `.section-card` containers, which provide consistent layout and accessibility.
+- **TriMetrix Indigo Translation:**  
+  I used my TriMetrix Indigo results to support and contextualize strengths such as *Strategic Decision Making*, *Personal Responsibility*, *Diplomacy and Negotiation*, and *Problem Solving*.
 
-The changes were based on my professional and personal identity and on my own voice, with a professional tone. Transform AI's suggestion while preserving its benefits, such as an established structure and organization. 
+- **Structural Refinement:**  
+  I followed the AI’s proposed order but made major adjustments: reformatted and renamed titles, added new sections for professional highlights and projects, created a separate CV page for recruitment, and added an Appendix for transparency.
+
+- **Technical Formatting in Quarto:**  
+  I implemented Bootstrap Icons, a custom color palette (#0056b3), and `.section-card` containers to maintain consistent layout and accessibility.
+
+Overall, I transformed the AI suggestions while preserving their benefits (structure and organization). All final wording reflects my own professional identity and voice.
 
 # E. Content Fully Authored by Me
 The following elements of the final portfolio were **entirely written, verified, and formatted by me** using factual information from my professional record and academic program.  
 These components reflect my authentic experience and original writing.
 
 - **Quantitative and factual content:**  
-  All metrics and numerical results in *Professional Highlights* (e.g., ~30 % sales increase, ~4× inventory turnover, ~9.25 % annual growth, ~10 % dead-stock reduction) were calculated and verified by me using real performance data.
+  All metrics and numerical results in *Professional Highlights* (e.g., ~25% sales increase, ~4× inventory turnover, ~9.25% annual growth, ~10% dead-stock reduction) were calculated and verified by me using real performance data.
 
 - **Project Descriptions:**  
   The three project summaries—*Concrete Pipes Market Expansion (China 2019)*, *Financial Analysis Lubricants Distributors*, and *Truck Mounted Pumps – Turret Retrofit*—were written directly from my professional experience and adapted for academic presentation.
@@ -157,46 +175,9 @@ These components reflect my authentic experience and original writing.
 These elements demonstrate complete authorship, factual accuracy, and alignment with University Canada West standards for integrity and responsible AI use.
 
 # References
-- University Canada West. (2025). *MBA Portfolio Assignment 1 Instructions.* [https://www.ucanwest.ca](https://www.ucanwest.ca)  
-- Quarto Documentation. (2025). *Getting Started with Quarto Websites.* [https://quarto.org/docs/websites](https://quarto.org/docs/websites)  
-- OpenAI. (2025). *Responsible Use of Generative AI in Education.* [https://openai.com/policies](https://openai.com/policies)  
-- OpenAI. (2025, October 26). *ChatGPT conversation with Miguel Angel Castro Ampudia – MBA Portfolio Appendix support.* ChatGPT. [https://chatgpt.com/share/68feff5a-bcdc-8010-a791-17d6b1571c45](https://chatgpt.com/share/68feff5a-bcdc-8010-a791-17d6b1571c45)
-
-<!-- ✅ Back to Top Button -->
-<style>
-#topBtn {
-  position: fixed;
-  bottom: 25px;
-  right: 25px;
-  z-index: 99;
-  background-color: #0056b3;
-  color: white;
-  border: none;
-  border-radius: 8px;
-  padding: 10px 16px;
-  font-size: 16px;
-  cursor: pointer;
-  box-shadow: 0 4px 6px rgba(0,0,0,0.2);
-}
-#topBtn:hover {
-  background-color: #004494;
-}
-</style>
-
-<button onclick="topFunction()" id="topBtn" title="Go to top">↑ Top</button>
-
-<script>
-  window.onscroll = function() {scrollFunction()};
-  function scrollFunction() {
-    const btn = document.getElementById("topBtn");
-    if (document.body.scrollTop > 200 || document.documentElement.scrollTop > 200) {
-      btn.style.display = "block";
-    } else {
-      btn.style.display = "none";
-    }
-  }
-  function topFunction() {
-    window.scrollTo({top: 0, behavior: 'smooth'});
-  }
-</script>
+University Canada West. (2025). MBA Portfolio Assignment 3 Instructions. https://www.ucanwest.ca
+Quarto Documentation. (2025). Getting Started with Quarto Websites. https://quarto.org/docs/websites
+OpenAI. (2025). Responsible Use of Generative AI in Education. https://openai.com/policies
+Thomas, K. R., Lamson, S. L., & King, A. K. (2025). Training Teacher Candidates To Create Web-Based Electronic Professional Portfolios. Ed.gov. https://eric.ed.gov/?id=ED458191
+OpenAI. (2025, November 23). ChatGPT conversation with Miguel Angel Castro Ampudia – MBA portfolio appendix support. ChatGPT. https://chatgpt.com/c/6922de35-5618-8330-8cfe-5e2d5cfb1ddc
 

@@ -1,0 +1,67 @@
+---
+title: "Contact"
+page-layout: full
+format:
+  html:
+    toc: false
+---
+
+## Let’s Connect <i class="bi bi-envelope-fill" style="color:#0056b3;"></i>
+
+::: {.section-card}
+
+I’m willing and open to connect with classmates, faculty, and professionals in operations, project management, and digital transformation.  
+You can reach out to me via any channel below.
+
+**Email:**  
+- <a href="mailto:miguel.castro.ampudia@gmail.com">miguel.castro.ampudia@gmail.com</a>
+
+**LinkedIn:**  
+- <a href="https://www.linkedin.com/in/miguel-castro-ampudia/" target="_blank">
+  linkedin.com/in/miguel-castro-ampudia
+  </a>
+
+**Portfolio:**  
+- <a href="https://miguel-castroampudia.github.io/web-portfolio/" target="_blank">
+  miguel-castroampudia.github.io/web-portfolio
+  </a>
+
+**Location:**  
+- Vancouver, BC, Canada
+
+<div style="margin-top:1.2rem; display:flex; gap:0.6rem; flex-wrap:wrap;">
+  
+  <a class="btn" href="mailto:miguel.castro.ampudia@gmail.com"
+     style="background:#0056b3;color:white;border-radius:8px;padding:10px 16px;text-decoration:none;">
+     <i class="bi bi-envelope"></i> Email Me
+  </a>
+
+  <a class="btn" href="https://www.linkedin.com/in/miguel-castro-ampudia/"
+     target="_blank"
+     style="background:#0A66C2;color:white;border-radius:8px;padding:10px 16px;text-decoration:none;">
+     <i class="bi bi-linkedin"></i> LinkedIn
+  </a>
+
+  <a class="btn" href="https://miguel-castroampudia.github.io/web-portfolio/"
+     target="_blank"
+     style="background:#111;color:white;border-radius:8px;padding:10px 16px;text-decoration:none;">
+     <i class="bi bi-globe2"></i> Portfolio
+  </a>
+
+</div>
+
+:::
+
+---
+
+## Note
+::: {.section-card}
+
+If you’re contacting me about:
+- **MBA collaboration / group work**
+- **Project management or operations roles**
+- **Heavy Equipment & Spare Parts topics**
+
+Please include a short message with the context so I can respond faster and more clearly.
+
+:::

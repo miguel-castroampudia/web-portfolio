@@ -15,5 +15,29 @@
     "appendix.html": "4ad91860",
     "appendix.tex": "1c2f45c9",
     "Appendix_MiguelCastro.pdf": "cc501ba7"
+  },
+  "Projects.qmd": {
+    "Projects.html": "1cd56f4a"
+  },
+  "docs/projects.qmd": {
+    "projects.html": "a8cfa94a"
+  },
+  "projects.qmd": {
+    "projects.html": "a1217518"
+  },
+  "skills.qmd": {
+    "skills.html": "6b211a96"
+  },
+  "contact.qmd": {
+    "contact.html": "b34240fb"
+  },
+  "docs/contact.qmd": {
+    "contact.html": "05e515b6"
+  },
+  "docs/reflection.qmd": {
+    "reflection.html": "e39cc761"
+  },
+  "reflection.qmd": {
+    "reflection.html": "c179ee1b"
   }
 }

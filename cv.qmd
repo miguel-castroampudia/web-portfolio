@@ -1,5 +1,4 @@
 ---
-title: "Miguel Angel Castro Ampudia"
 page-layout: full
 format:
   html:
