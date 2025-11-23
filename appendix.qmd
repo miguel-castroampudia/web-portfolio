@@ -10,7 +10,7 @@ format:
 
 <!-- 🔵 Download Appendix PDF Button -->
 <p style="text-align: right; margin-top: 0; margin-bottom: 1rem;">
-  <a href="files/Appendix_MiguelCastro.pdf" class="btn" 
+  <a href="appendix.pdf" class="btn" 
    style="background-color:#0056b3;color:white;border-radius:8px;padding:10px 16px;text-decoration:none;">
    📄 Download Appendix (PDF)
 </a>
