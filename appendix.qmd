@@ -175,9 +175,16 @@ These components reflect my authentic experience and original writing.
 These elements demonstrate complete authorship, factual accuracy, and alignment with University Canada West standards for integrity and responsible AI use.
 
 # References
-University Canada West. (2025). MBA Portfolio Assignment 3 Instructions. https://www.ucanwest.ca
+
+OpenAI. (2025, November 23). ChatGPT conversation with Miguel Angel Castro Ampudia – MBA portfolio appendix support. ChatGPT. https://chatgpt.com/c/
+
 Quarto Documentation. (2025). Getting Started with Quarto Websites. https://quarto.org/docs/websites
+
 OpenAI. (2025). Responsible Use of Generative AI in Education. https://openai.com/policies
-Thomas, K. R., Lamson, S. L., & King, A. K. (2025). Training Teacher Candidates To Create Web-Based Electronic Professional Portfolios. Ed.gov. https://eric.ed.gov/?id=ED458191
-OpenAI. (2025, November 23). ChatGPT conversation with Miguel Angel Castro Ampudia – MBA portfolio appendix support. ChatGPT. https://chatgpt.com/c/6922de35-5618-8330-8cfe-5e2d5cfb1ddc
+
+Sustainability Directory. (2025, April 9). SocioTechnical Systems Theory → Term. Pollution → Sustainability Directory. https://pollution.sustainability-directory.com/term/sociotechnical-systems-theory/
+
+Thomas, K. R., Lamson, S. L., & King, A. K. (2025). Training Teacher Candidates To Create Web-Based Electronic Professional Portfolios. Ed.gov. https://eric.ed.gov/?id=ED4581916922de35-5618-8330-8cfe-5e2d5cfb1ddc
+
+
 
