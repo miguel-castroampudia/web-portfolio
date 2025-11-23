@@ -2,19 +2,31 @@
 title: "Appendix — LLM Use & Reflection"
 page-layout: full
 format:
-  html:default  
-  pdf: default
+  html:
     toc: true
     toc-depth: 2
+  pdf: default
 ---
 
-<!-- 🔵 Download Appendix PDF Button -->
-<p style="text-align: right; margin-top: 0; margin-bottom: 1rem;">
-  <a href="appendix.pdf" class="btn" 
-   style="background-color:#0056b3;color:white;border-radius:8px;padding:10px 16px;text-decoration:none;">
-   📄 Download Appendix (PDF)
-</a>
-
+<!-- Download Appendix PDF Button -->
+<p style="text-align: right; margin-top: 0; margin-bottom: 2rem;">
+  <a href="appendix.pdf"
+     style="
+       display:inline-flex;
+       align-items:center;
+       gap:10px;
+       background-color:#0056b3;
+       color:white;
+       padding:12px 20px;
+       border-radius:8px;
+       font-size:1rem;
+       font-weight:600;
+       text-decoration:none;
+       box-shadow:0 2px 4px rgba(0,0,0,0.2);
+     ">
+     <i class="bi bi-file-earmark-text-fill" style="font-size:1.2rem;"></i>
+     Download Appendix (PDF)
+  </a>
 </p>
 
 # A. Purpose of this Appendix
@@ -191,3 +203,65 @@ These elements demonstrate complete authorship, factual accuracy, and alignment 
 
 - OpenAI. (2025, November 23). *ChatGPT conversation with Miguel Angel Castro Ampudia – MBA portfolio appendix support*. ChatGPT.  
   <https://chatgpt.com/c/6922de35-5618-8330-8cfe-5e2d5cfb1ddc>
+  
+<!-- Back to Top Button -->
+<style>
+#topBtn {
+  position: fixed;
+  bottom: 25px;
+  right: 25px;
+  z-index: 9999;
+  background-color: #0056b3;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 16px;
+  font-size: 16px;
+  cursor: pointer;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.25s ease;
+}
+#topBtn.show {
+  opacity: 1;
+  pointer-events: auto;
+}
+#topBtn:hover {
+  background-color: #004494;
+}
+</style>
+
+<button id="topBtn" title="Go to top">↑ Top</button>
+
+<script>
+(function () {
+  const btn = document.getElementById("topBtn");
+
+  function getScrollTop() {
+    return (document.scrollingElement && document.scrollingElement.scrollTop) ||
+           document.documentElement.scrollTop ||
+           document.body.scrollTop || 0;
+  }
+
+  function toggleBtn() {
+    if (getScrollTop() > 200) {
+      btn.classList.add("show");
+    } else {
+      btn.classList.remove("show");
+    }
+  }
+
+  window.addEventListener("scroll", toggleBtn, { passive: true });
+  document.addEventListener("scroll", toggleBtn, { passive: true });
+
+  btn.addEventListener("click", function () {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+    if (document.scrollingElement) {
+      document.scrollingElement.scrollTo({ top: 0, behavior: "smooth" });
+    }
+  });
+
+  toggleBtn();
+})();
+</script>
